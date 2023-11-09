@@ -149,8 +149,6 @@ def creating_file_with_augmented_images(source_folder, output_folder):
 
 if __name__ == "__main__":
     while True:
-         source_folder = input("Enter the path of the images to annotate and/or augment: ")
-         folder_name = os.path.basename(os.path.normpath(source_folder))
          # Menu
          print("Menu:")
          print("1. Annotate Images")
@@ -161,6 +159,8 @@ if __name__ == "__main__":
          choice = input("Enter your choice (1/2/3/4): ")
 
          if choice == "1":
+            source_folder = input("Enter the path of the images to annotate and/or augment: ")
+            folder_name = os.path.basename(os.path.normpath(source_folder))
             # Annotate Images
             output_folder = input("Enter the path where you want to save the annotated images: ")
             annotated_folder = output_folder+ "/" + folder_name +"_annotated/"
@@ -168,12 +168,16 @@ if __name__ == "__main__":
             print(f"Annotated images saved in: {annotated_folder}")
 
          elif choice == "2":
+            source_folder = input("Enter the path of the images to annotate and/or augment: ")
+            folder_name = os.path.basename(os.path.normpath(source_folder))
             # Augment Images
             output_folder = input("Enter the path where you want to save the augmented images: ")
             creating_file_with_augmented_images(source_folder, output_folder)
             print(f"Augmented images saved in: {output_folder}")
 
          elif choice == "3":
+            source_folder = input("Enter the path of the images to annotate and/or augment: ")
+            folder_name = os.path.basename(os.path.normpath(source_folder))
             output_folder = input("Enter the path where you want to save the result of images: ")
             annotate_images(source_folder, source_folder+ "/" + folder_name +"_annotated/")
             creating_file_with_augmented_images(source_folder+ "/" + folder_name +"_annotated/"+ folder_name, output_folder)
