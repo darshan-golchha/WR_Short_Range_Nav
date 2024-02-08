@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MalletImgs</folder>
+	<filename>IMG_3790 2.HEIC</filename>
+	<path>/Users/fionaing/Desktop/MalletImgs/IMG_3790 2.HEIC</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5712</width>
+		<height>4284</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mallet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1336</xmin>
+			<ymin>125</ymin>
+			<xmax>4925</xmax>
+			<ymax>3714</ymax>
+		</bndbox>
+	</object>
+</annotation>
