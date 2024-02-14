@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>nalgene-bottle-on-mountain.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/nalgene-bottle-on-mountain.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1200</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>415</xmin>
+			<ymin>106</ymin>
+			<xmax>719</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+</annotation>

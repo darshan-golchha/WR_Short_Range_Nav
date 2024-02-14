@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>Nalgene-Ultralite-Water-Bottle-Fall__31055.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/Nalgene-Ultralite-Water-Bottle-Fall__31055.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>341</ymin>
+			<xmax>1005</xmax>
+			<ymax>1114</ymax>
+		</bndbox>
+	</object>
+</annotation>

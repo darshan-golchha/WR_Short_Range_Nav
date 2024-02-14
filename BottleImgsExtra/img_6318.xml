@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>img_6318.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/img_6318.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>238</ymin>
+			<xmax>1522</xmax>
+			<ymax>2646</ymax>
+		</bndbox>
+	</object>
+</annotation>

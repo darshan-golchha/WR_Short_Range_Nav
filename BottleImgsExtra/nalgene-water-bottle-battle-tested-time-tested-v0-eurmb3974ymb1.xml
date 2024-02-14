@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>nalgene-water-bottle-battle-tested-time-tested-v0-eurmb3974ymb1.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/nalgene-water-bottle-battle-tested-time-tested-v0-eurmb3974ymb1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>1093</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>119</ymin>
+			<xmax>472</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+</annotation>

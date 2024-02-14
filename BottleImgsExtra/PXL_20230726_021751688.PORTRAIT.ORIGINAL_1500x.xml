@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>PXL_20230726_021751688.PORTRAIT.ORIGINAL_1500x.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/PXL_20230726_021751688.PORTRAIT.ORIGINAL_1500x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>2000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>313</xmin>
+			<ymin>354</ymin>
+			<xmax>1098</xmax>
+			<ymax>1819</ymax>
+		</bndbox>
+	</object>
+</annotation>

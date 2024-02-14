@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>YFQe23R.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/YFQe23R.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>809</xmin>
+			<ymin>303</ymin>
+			<xmax>2429</xmax>
+			<ymax>3598</ymax>
+		</bndbox>
+	</object>
+</annotation>

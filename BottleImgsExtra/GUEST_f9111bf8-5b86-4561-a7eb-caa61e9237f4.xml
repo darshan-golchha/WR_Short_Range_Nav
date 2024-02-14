@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>GUEST_f9111bf8-5b86-4561-a7eb-caa61e9237f4.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/GUEST_f9111bf8-5b86-4561-a7eb-caa61e9237f4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>60</ymin>
+			<xmax>309</xmax>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+</annotation>

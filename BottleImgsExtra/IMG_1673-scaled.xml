@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>IMG_1673-scaled.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/IMG_1673-scaled.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2560</width>
+		<height>2486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>981</xmin>
+			<ymin>101</ymin>
+			<xmax>1928</xmax>
+			<ymax>2366</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>nalgene-widemouth-electric-magenta-16oz.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/nalgene-widemouth-electric-magenta-16oz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>29</ymin>
+			<xmax>855</xmax>
+			<ymax>968</ymax>
+		</bndbox>
+	</object>
+</annotation>

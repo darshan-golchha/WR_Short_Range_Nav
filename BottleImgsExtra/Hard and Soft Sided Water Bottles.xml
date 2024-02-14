@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>Hard and Soft Sided Water Bottles.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/Hard and Soft Sided Water Bottles.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>500</xmin>
+			<ymin>64</ymin>
+			<xmax>702</xmax>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+</annotation>

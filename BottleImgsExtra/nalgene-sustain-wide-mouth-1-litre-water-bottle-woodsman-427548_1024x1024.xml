@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>nalgene-sustain-wide-mouth-1-litre-water-bottle-woodsman-427548_1024x1024.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/nalgene-sustain-wide-mouth-1-litre-water-bottle-woodsman-427548_1024x1024.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>803</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>246</ymin>
+			<xmax>582</xmax>
+			<ymax>922</ymax>
+		</bndbox>
+	</object>
+</annotation>

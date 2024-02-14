@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs</folder>
+	<filename>nalgene_water_bottle_1550842863_f3c15b9d_progressive.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs/nalgene_water_bottle_1550842863_f3c15b9d_progressive.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>58</ymin>
+			<xmax>669</xmax>
+			<ymax>953</ymax>
+		</bndbox>
+	</object>
+</annotation>
