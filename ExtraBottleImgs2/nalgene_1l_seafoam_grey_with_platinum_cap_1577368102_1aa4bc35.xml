@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs2</folder>
+	<filename>nalgene_1l_seafoam_grey_with_platinum_cap_1577368102_1aa4bc35.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs2/nalgene_1l_seafoam_grey_with_platinum_cap_1577368102_1aa4bc35.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>756</width>
+		<height>1008</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waterbottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>145</ymin>
+			<xmax>495</xmax>
+			<ymax>889</ymax>
+		</bndbox>
+	</object>
+</annotation>

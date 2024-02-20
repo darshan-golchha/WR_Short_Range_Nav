@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs2</folder>
+	<filename>authentic_nalgene_pink_cosmos__1687570294_4dd8e2e5_progressive.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs2/authentic_nalgene_pink_cosmos__1687570294_4dd8e2e5_progressive.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waterbottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>175</xmin>
+			<ymin>69</ymin>
+			<xmax>596</xmax>
+			<ymax>989</ymax>
+		</bndbox>
+	</object>
+</annotation>

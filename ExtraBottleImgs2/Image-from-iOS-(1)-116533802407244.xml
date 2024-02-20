@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs2</folder>
+	<filename>Image-from-iOS-(1)-116533802407244.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs2/Image-from-iOS-(1)-116533802407244.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2550</width>
+		<height>2794</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waterbottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1332</xmin>
+			<ymin>1287</ymin>
+			<xmax>1914</xmax>
+			<ymax>2408</ymax>
+		</bndbox>
+	</object>
+</annotation>

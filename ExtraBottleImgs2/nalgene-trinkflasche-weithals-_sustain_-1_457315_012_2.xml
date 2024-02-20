@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs2</folder>
+	<filename>nalgene-trinkflasche-weithals-_sustain_-1_457315_012_2.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs2/nalgene-trinkflasche-weithals-_sustain_-1_457315_012_2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waterbottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>530</xmin>
+			<ymin>748</ymin>
+			<xmax>1192</xmax>
+			<ymax>2073</ymax>
+		</bndbox>
+	</object>
+</annotation>

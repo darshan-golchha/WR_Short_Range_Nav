@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs2</folder>
+	<filename>nalgene_32oz_wide_mouth_water__1697318876_797a43c9_progressive.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs2/nalgene_32oz_wide_mouth_water__1697318876_797a43c9_progressive.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>701</width>
+		<height>701</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waterbottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>164</ymin>
+			<xmax>484</xmax>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+</annotation>

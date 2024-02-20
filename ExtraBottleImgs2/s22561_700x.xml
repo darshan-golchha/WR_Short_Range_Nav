@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ExtraBottleImgs2</folder>
+	<filename>s22561_700x.jpg</filename>
+	<path>/Users/fionaing/Desktop/ExtraBottleImgs2/s22561_700x.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>waterbottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>42</ymin>
+			<xmax>450</xmax>
+			<ymax>530</ymax>
+		</bndbox>
+	</object>
+</annotation>
